@@ -1,0 +1,13 @@
+# Real guest data — never publish. Use names.csv.example as the template.
+names.csv
+names.csv.bak*
+
+# Generated cards (carry real guest names)
+output_images/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# LibreOffice lock files
+.~lock.*#
